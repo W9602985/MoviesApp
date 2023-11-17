@@ -1,4 +1,4 @@
-package uk.ac.tees.w9602985.myica.ui.theme
+package uk.ac.tees.w9602985.myica.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package uk.ac.tees.w9602985.myica.ui.theme
+package uk.ac.tees.w9602985.myica.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MyICATheme(
+fun MyApplicationTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
