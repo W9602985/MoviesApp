@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496054779439",
+    "project_id": "moviesapp-f5673",
+    "storage_bucket": "moviesapp-f5673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496054779439:android:2fa097ee395a23fda790da",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.w9602985.myica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxMxJkcg3zoTdV9xqmW2rkQJkibwIWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
