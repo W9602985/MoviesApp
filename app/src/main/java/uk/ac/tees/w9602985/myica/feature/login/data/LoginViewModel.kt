@@ -110,8 +110,6 @@ class LoginViewModel : ViewModel() {
             .addOnFailureListener {
                 loginInProgress.value = false
                 loginUIState.value.msgError = it.localizedMessage.toString()
-
-
             }
     }
 
