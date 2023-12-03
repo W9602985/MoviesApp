@@ -86,7 +86,7 @@ fun MovieDetailContent(movie: MovieDetail, posterUrl:String, viewModel: MovieVie
                 fontSize = 14.sp
             )
 
-            /*Button(
+            Button(
                 onClick = {
                     CoroutineScope(Dispatchers.Default).launch {
                         if (movieInDAO==null){
@@ -108,7 +108,7 @@ fun MovieDetailContent(movie: MovieDetail, posterUrl:String, viewModel: MovieVie
                 }else{
                    Text(text = "Add To Favorite")
                 }
-            }*/
+            }
 
         }
     }
